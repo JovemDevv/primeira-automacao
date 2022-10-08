@@ -37,7 +37,7 @@ Segue o relatório de vendas,
 Faturamento: R${faturamento:,.2f}
 Quantidade de produtos vendidos: {quantidade:,}
 
-Quaquer suvida estou à disposição.
+Qualquer duvida estou à disposição.
 Att.,
 Ana
 '''
