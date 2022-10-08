@@ -9,5 +9,6 @@ A linguagem Python tem uma sintaxe simples permitindo criar scripts de automaç�
 
 Bibliotecas utilizadas:
 
-<li>Pyautogui</li>
-<li>Pyperclip</li>
+<li>Pyautogui(ela é a principal, pois é um módulo de automação de GUI para Python2 e Python3 que fornece métodos para controlar mouse e teclado)</li>
+<li>Pyperclip(é um módulo Python de plataforma cruzada para copiar e colar funções da área de transferência)</li>
+<li>Pandas(para manipulação e análise de dados)</li>
